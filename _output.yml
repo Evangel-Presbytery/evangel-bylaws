@@ -1,6 +1,6 @@
 bookdown::bs4_book:
   repo:
-    base: https://github.com/Evangel-Presbytery/clerks-handbook
+    base: https://github.com/Evangel-Presbytery/evangel-bylaws
     branch: main
   css: "style.css"
 bookdown::pdf_book:
