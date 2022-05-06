@@ -1,2 +1,14 @@
 name
 object
+members
+officers
+meetings
+permanent-committees
+temporary-committees
+ad-interim-committees-and-commissions
+general-committee-regulations
+electronic-meetings
+parliamentary-authority
+suspension-and-amendment-of-bylaws
+appendix-1-guidelines-for-keeping-session-minutes
+evangel-presbytery-bylaws-revision-form
