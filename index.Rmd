@@ -1,0 +1,13 @@
+--- 
+title: "Evangel Presbytery Bylaws"
+author: "Office of the Stated Clerk of Evangel Presbytery"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+github-repo: Evangel-Presbytery/evangel-bylaws
+description: "These are the bylaws for Evangel Presbytery."
+---
+
+# Name
+
+The incorporated name of this body shall be "Evangel Presbytery, Inc."
