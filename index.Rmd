@@ -8,6 +8,1199 @@ github-repo: Evangel-Presbytery/evangel-bylaws
 description: "These are the bylaws for Evangel Presbytery."
 ---
 
-# Name
+[SECTION 1: NAME]{.c11}
 
-The incorporated name of this body shall be "Evangel Presbytery, Inc."
+[The incorporated name of this body shall be ]{.c1}[\"Evangel
+Presbytery, Inc.\"]{.c1}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 2: OBJECT]{.c11}
+
+[The object of this body is to fulfill the requirements for the
+Presbytery as set forth in the ]{.c1}[Book of Church Order of Evangel
+Presbytery]{.c1 .c4}[ (15.8; hereafter, "]{.c1}[Book of Church Order" or
+"BCO"]{.c1 .c4}[). The doctrinal and governmental standards of this
+Presbytery shall be those stated in the ]{.c1}[Book of Church Order
+]{.c1 .c4}[(Preface, C). These Bylaws are not to conflict with the
+]{.c1}[Book of Church Order]{.c1 .c4}[, and in any case of conflict, the
+standards of the ]{.c1}[Book of Church Order]{.c1 .c4}[ shall take
+precedence.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 3: MEMBERS]{.c11}
+
+[Members of this Presbytery shall be in two classes: Ordained Ministers
+of the Word (Pastors) and the particular churches. Standards for
+examination for membership of both Ministers and churches shall be as
+set forth in the ]{.c1}[Book of Church Order]{.c1 .c4}[. Representation
+of elders from particular churches shall be in accordance with the
+provisions of the ]{.c1}[Book of Church Order]{.c1 .c4}[.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 4: OFFICERS]{.c11}
+
+[All officers shall be elected by a]{.c1}[ majority of the votes cast at
+the Stated Meeting scheduled for that purpose]{.c1}[. ]{.c1}[The various
+offices of the Presbytery, and their functions, are as follows:]{.c0}
+
+[]{.c0}
+
+[A. Moderator]{.c0}
+
+[]{.c11}
+
+[1. Eligibility: The Moderator shall be a Pastor who is a member in good
+standing of the Presbytery, or an Elder in good standing of a member
+church of the Presbytery. ]{.c1}[The Elder does not have to be currently
+active on the Session of his church if that church follows a rotation
+system for its Session. A moderator may not succeed himself, nor serve a
+second term in office within one year of previously having served.]{.c1}
+
+[]{.c0}
+
+[2. Tenure: ]{.c1}[The Moderator of the Presbytery shall be chosen at
+each stated meeting or for a period of time up to one (1) year (]{.c1
+.c14}[BCO]{.c1 .c4 .c14}[ 12.3). He ]{.c1 .c14}[will continue to serve
+in office until a successor is elected at a Stated Meeting. He will
+preside over called or other special meetings, and otherwise function as
+Moderator during his tenure. As a general rule, the position of
+Moderator should alternate between Pastors and Elders.]{.c0}
+
+[]{.c0}
+
+[3. Moderator-in-Nomination: At each Stated Meeting of Presbytery or at
+the Stated Meeting preceding the final meeting of the current
+Moderator's tenure, a Moderator-in-Nomination will be elected, with the
+understanding that his name will automatically be placed in nomination
+for the office of moderator at the next Stated Meeting. This policy is
+established to enable men to prepare themselves to function in this
+office to the best of their ability, and to be aware of current issues
+before the court. However, election as Moderator-in-Nomination does not
+require the Presbytery to elect this nominee at its next Stated Meeting,
+at which time a normal process of nominations and elections will be
+followed.]{.c0}
+
+[]{.c0}
+
+[4. Duties: ]{.c0}
+
+[]{.c0}
+
+1.  [The Moderator of Presbytery will function as chairman of all
+    meetings of Presbytery, following approved parliamentary procedure.
+    ]{.c0}
+2.  [If no worship service has been held prior to the meeting of
+    Presbytery, the retiring Moderator shall ordinarily bring a message
+    from God\'s Word in an appropriate time of devotion. ]{.c0}
+3.  [Between meetings, the Moderator has the responsibility to speak for
+    the Presbytery in matters in which the Presbytery itself has made
+    its commitments clear, and he should be consulted in all matters
+    affecting the Presbytery as a whole. ]{.c0}
+4.  [He may appoint a Parliamentarian to serve for each Stated Meeting.
+    ]{.c0}
+5.  [In any emergency the Moderator may, ]{.c1}[by adequate and
+    appropriate means, including circular letter, telephone
+    notification, or email]{.c1}[, change the time or place (or both) of
+    meetings to which the court stands adjourned, giving reasonable
+    notice of such change. ]{.c0}
+6.  [The Moderator shall nominate the members of Temporary Committees
+    and Ad Interim Committees. ]{.c1}[Nominees will be approved by the
+    Presbytery. The Moderator shall appoint the chairmen of Temporary
+    Committees and Ad Interim Committees and inform the Presbytery of
+    his appointment. ]{.c1}[He may also advise the members of these
+    committees to elect chairmen from among themselves.]{.c1}
+7.  [The Moderator, by the authority vested in him, is an ex-officio
+    member of the Administrative Committee.]{.c0}
+
+[]{.c0}
+
+[B. Vice Moderator]{.c0}
+
+[]{.c0}
+
+[The Vice Moderator shall be the immediate past Moderator and shall
+serve at the request of the Moderator, or when the Moderator is unable
+to serve. In the event the Vice Moderator is not able to serve, the
+Stated Clerk shall preside, and, as its first order of business,
+Presbytery shall nominate and elect a Moderator Pro Tem to moderate
+during the Moderator's and Vice Moderator's absence. The Vice Moderator,
+by the authority vested in him, is an ex-officio member of the
+Administrative Committee]{.c0}
+
+[]{.c0}
+
+[C. Stated Clerk]{.c0}
+
+[]{.c0}
+
+[1. Eligibility: The Stated Clerk shall be a Pastor who is a member in
+good standing of the Presbytery, or an Elder in good standing of a
+member church of the Presbytery. The Elder does not have to be currently
+active on the Session of his church if that church follows a rotation
+system for its Session.]{.c0}
+
+[]{.c0}
+
+[2. Tenure: The Stated Clerk will be elected at the Spring/]{.c1}[Summer
+Stated Meeting]{.c1}[ and shall serve for a period of three (3) years.
+He may succeed himself as often as the Presbytery so desires. It is
+deemed advisable that this be done whenever possible.]{.c0}
+
+[]{.c0}
+
+[3. Duties: The Stated Clerk shall perform the duties assigned by the
+]{.c1}[Book of Church Order]{.c1 .c4}[ (12.4). He shall perform other
+duties as assigned by the Presbytery. ]{.c1}[The Stated Clerk may
+receive an annual stipend to be fixed by the Presbytery.]{.c1}[ In the
+administration of his duties, the Stated Clerk shall be under the
+supervision of the Administrative Committee. The Presbytery shall
+provide or reimburse the Stated Clerk for all costs required by the
+duties of his office upon presentation of proper cost statements subject
+to the limitations of the current approved budget. His duties will
+include, but not be limited to the following, ]{.c0}
+
+[]{.c0}
+
+1.  [keep proper minutes of all Presbytery and Committee/Commission
+    meetings, giving certified extracts therefrom when required; ]{.c0}
+2.  [assemble the items of business to come before the Presbytery and
+    refer each item to the proper committee (if the clerk has questions
+    regarding reference, he is to consult with the Administrative
+    Committee before making reference); ]{.c0}
+3.  [send to each member and church (including men under care) notice of
+    all meetings; note the attendance at each meeting ]{.c1}[and make
+    recommendations]{.c1}[ concerning absences at Stated Meetings;
+    ]{.c0}
+4.  [maintain permanent, orderly records of all Presbytery
+    correspondence and other matters; ]{.c0}
+5.  [notify each Committee and Commission chairman of his appointment,
+    membership and business before it; ]{.c1}
+6.  [maintain a supply of necessary forms for use by churches; ]{.c0}
+7.  [make all communications authorized by Presbytery; ]{.c0}
+8.  [open meetings of Presbytery when the Moderator is unable to do so,
+    and serve until a new Moderator is elected; ]{.c0}
+9.  [advise the Moderator in every possible way, by keeping him informed
+    of matters requiring his attention, giving notice for him of Called
+    Meetings of Presbytery or changes in time and place of Meetings,
+    making the facilities of the office available to him for
+    correspondence or other matters, and rendering any service requested
+    by the Moderator in connection with the operation of Presbytery.
+    ]{.c0}
+10. [He shall be an ex-officio member of Presbytery\'s Administrative
+    Committee. ]{.c0}
+
+[]{.c0}
+
+[4. Assistant Clerks and Office Staff. When necessary to the performance
+of his duties, and upon recommendation by the Administrative Committee,
+the Presbytery may authorize the hiring of clerical help and services
+(such as printing and duplication) to assist the Stated Clerk in
+carrying out the duties of his office.]{.c0}
+
+[]{.c0}
+
+[D. Recording Clerk]{.c0}
+
+[]{.c0}
+
+[The Recording Clerk shall be appointed by the Stated Clerk for a term
+of one (1) year, informing the Presbytery of this appointment during his
+clerk's report at the beginning of the first presbytery meeting
+following that appointment. The]{.c1}[ Recording Clerk shall normally be
+a member of Presbytery or a ruling elder of a member
+church.]{.c1}[ Election shall normally be held at the
+Spring/]{.c1}[Summer Stated Meeting]{.c1}[, with term of office to begin
+at the Fall Stated Meeting. ]{.c1}[The Recording Clerk may receive an
+annual stipend to be fixed by the Presbytery. ]{.c1}[He shall be given
+two (2) copies of all committee reports as presented to Presbytery for
+inclusion in the Minutes and a written copy of all motions adopted by
+Presbytery. As soon as practicable, he shall convey the Minutes in
+type-written form (or any other form acceptable to the Stated Clerk),
+properly recorded, to the Stated Clerk for editing and publishing. The
+Minutes shall be reviewed by the Stated Clerk and Moderator prior to
+circulation to the presbytery for their review and approval.]{.c0}
+
+[]{.c0}
+
+[E. Treasurer]{.c0}
+
+[]{.c0}
+
+[1. Eligibility: Eligibility for the office of Treasurer shall be the
+same as for the office of Stated Clerk. The Stated Clerk may also serve
+as Treasurer.]{.c0}
+
+[]{.c0}
+
+[2. Tenure: Tenure for the office of Treasurer shall be the same as for
+the office of Stated Clerk.]{.c0}
+
+[]{.c0}
+
+[3. Duties: The Treasurer shall perform those duties required of him by
+the ]{.c1}[Book of Church Order]{.c1 .c4}[ and those other duties as may
+be assigned by the Presbytery. In the performance of his duties, the
+Treasurer shall come under the oversight of the Administrative
+Committee. The Presbytery shall provide or reimburse the Treasurer for
+all costs required by the duties of his office upon presentation of
+proper cost statements subject to the limitations of the current
+approved budget. ]{.c1}[He shall be bonded in an amount to be determined
+by the Presbytery, ]{.c1}[or the books of the presbytery shall be
+audited, annually]{.c1}[.]{.c1}[ His duties shall include but not be
+limited to: ]{.c0}
+
+[]{.c0}
+
+1.  [custody of the funds and securities belonging to the Presbytery,
+    and not otherwise designated; ]{.c0}
+2.  [receive, deposit, and disburse such funds as directed by the
+    Presbytery; ]{.c0}
+3.  [keep an accurate account of the finances of the Presbytery, not
+    only of those funds in the custody, but also by means of quarterly
+    reports from other committees handling separate funds; ]{.c0}
+4.  [prepare or have prepared ]{.c1}[reports ]{.c1}[of the financial
+    condition of the Presbytery at each stated meeting; ]{.c0}
+5.  [in general, perform all of the duties incident to the office of
+    Treasurer.]{.c0}
+
+[]{.c0}
+
+[F. Trustees]{.c0}
+
+[]{.c0}
+
+[1. Eligibility: The Board of ]{.c1}[Trustees]{.c1}[ of the Presbytery
+shall consist of the Stated Clerk, plus two other members of Presbytery
+elected at large. Eligibility for this office shall be the same as for
+all other offices.]{.c0}
+
+[]{.c0}
+
+[2. Tenure: Trustees will serve for the period of their Committee
+Chairmanship, or three (3) years, whichever is shorter. Trustees may be
+re-elected to office upon two-thirds (2/3)of the votes cast. Election
+will be held at Spring/Summer Stated Meeting.]{.c0}
+
+[]{.c0}
+
+[3. Duties: The Trustees shall receive and hold for use of Presbytery
+all real and personal property, grants, endowments, and such other funds
+acquired, ]{.c1}[devised]{.c1}[, purchased, or donated, not otherwise
+disposed of. They shall be the legal Officers of the Corporation.
+]{.c1}[As long as the Presbytery is incorporated under the laws of the
+State of Indiana, there shall be three directors (trustees) at all
+times.]{.c1}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 5: MEETINGS]{.c11}
+
+[]{.c11}
+
+[A]{.c1}[. Stated Meetings]{.c0}
+
+[]{.c0}
+
+[The time and place of each Stated Meeting shall be determined by
+Presbytery at the preceding Stated Meeting, or, should Presbytery fail
+to make this decision, by the Moderator, with approval of the
+Administrative Committee. The normal times of Stated Meetings shall be
+as follows: ]{.c0}
+
+[]{.c0}
+
+[WINTER STATED MEETING: Third Friday in February]{.c0}
+
+[SPRING/SUMMER STATED MEETING: First Thursday in June]{.c0}
+
+[FALL STATED MEETING: First Thursday in October]{.c1}
+
+[]{.c0}
+
+[Whenever possible, the Stated meetings will be preceded by
+Presbytery-wide worship services including celebration of the Lord\'s
+Supper at the host church or some other practical location.]{.c1}
+
+[]{.c0}
+
+[B. ]{.c1}[Special ]{.c1}[Called Meeting]{.c0}
+
+[]{.c0}
+
+[Special called meetings of presbytery will only be held when timing
+necessitates decisions prior to the next stated ]{.c1}[meeting.
+]{.c1}[Such meetings will be called in strict accordance with the
+]{.c1}[Book of Church Order]{.c1 .c4}[.]{.c0}
+
+[]{.c0}
+
+[C. Quorum]{.c0}
+
+[]{.c0}
+
+[Any three (3) Ministers belonging to the Presbytery, together with at
+least three (3) Ruling Elders, representing at least three (3) churches,
+being met at the time and place appointed, shall be a quorum competent
+to proceed to business (]{.c1}[BCO]{.c1 .c4}[ 15.5). At any time that
+attendance at a meeting should fall below the level required for a
+quorum, the only business which may be conducted is a motion to adjourn
+the meeting.]{.c0}
+
+[]{.c0}
+
+[D. Docket]{.c0}
+
+[]{.c0}
+
+[The normal docket for Stated Meetings shall be as follows:]{.c0}
+
+[]{.c0}
+
+[1. Period of worship and/or prayer]{.c0}
+
+[2. Roll call and letters of excuse]{.c0}
+
+[3. Introduction and seating of corresponding members and visiting
+brethren]{.c0}
+
+[4. Representative of the Host Church]{.c0}
+
+[5. Minutes of previous meetings]{.c0}
+
+[6. Election of Moderator (when necessary)]{.c0}
+
+[7. Election of other officers (when necessary)]{.c0}
+
+[8. Election of Moderator-in-Nomination (when necessary)]{.c0}
+
+[9. Adoption of the Docket]{.c0}
+
+[10. Reading and assignment of communications]{.c0}
+
+[11. Appointment of Temporary Committees]{.c0}
+
+[12. Appointment of Commissions and/or Ad Interim Committees]{.c0}
+
+[13. Reports of Permanent Committees, with the report of Candidates and
+Credentials Committee always being first, the other permanent committees
+rotating their order of report from meeting to meeting.]{.c0}
+
+[14. Unfinished (old) business]{.c0}
+
+[15. Reports from Standing Committees]{.c0}
+
+[16. Reports from officers (Clerk, Treasurer, Trustees)]{.c0}
+
+[17. New Business]{.c0}
+
+[18. Time and place of next Stated Meeting]{.c0}
+
+[19. Adjournment with prayer]{.c0}
+
+[]{.c0}
+
+[Only those items of business which reach the hands of the Stated Clerk
+no later than seven (7) days prior to a Stated Meeting may be included
+in the docket any place other than New Business. This includes reports
+of Permanent Committees. ]{.c0}
+
+[]{.c0}
+
+[The approved minutes of Evangel Presbytery are a public record. A copy
+will be mailed to anyone who asks for one with the exception of
+executive session minutes.]{.c0}
+
+[]{.c0}
+
+[E. Attendance]{.c0}
+
+[]{.c0}
+
+[Unless honorably retired or declared infirm, all
+]{.c1}[Ministers]{.c1}[ are expected to attend all meetings of
+Presbytery. Permission for absences shall be requested through the
+Stated Clerk or from the floor during the Stated Clerk\'s report.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 6: PERMANENT COMMITTEES]{.c11}
+
+[]{.c0}
+
+[A]{.c1}[. Membership on Committees]{.c0}
+
+[]{.c0}
+
+[Eligibility for membership on Permanent Committees of the Presbytery
+will be the same as for officers of the Presbytery. No man may serve as
+chairman of more than one permanent committee at any given time. No man
+may serve as chairman of more than two subcommittees or combination of
+committee/subcommittee at any given time.]{.c0}
+
+[]{.c0}
+
+[B. Election and Tenure]{.c0}
+
+[]{.c0}
+
+[Elections for Chairman of Committees and Subcommittees]{.c1}[, as put
+forward by the Nominations Committee,]{.c1}[ shall normally be held at
+the Spring/Summer Stated Meeting. Terms will be for one (1) year. A man
+may serve as Chairman of a Committee or Subcommittee for three (3)
+consecutive years. If nominated to continue on the same
+Committee/Subcommittee after three (3) years, an election by two-thirds
+(2/3) of the votes cast is required.]{.c1}
+
+[]{.c0}
+
+[C. Committee Structure]{.c0}
+
+[]{.c0}
+
+[Each Permanent Committee will be made up of its chairman, and the
+chairman of each of the assigned Subcommittees serving as members of the
+main committee. Membership on Subcommittees does not need the approval
+of the Presbytery as a whole, but will be left to the nomination of the
+Chairman of the appropriate Subcommittee, with approval of the entire
+Committee. Membership on Subcommittees may vary at any time according to
+current needs, with the only restriction being that the same man may not
+serve more than three (3) continuous years on any given Subcommittee,
+without approval of two-thirds (2/3) of the votes cast at the time
+nominated to so continue.]{.c1}
+
+[]{.c0 .c24}
+
+[        ]{.c1 .c24}[D. Permanent Committee Descriptions]{.c1}
+
+[]{.c0}
+
+[1. Administrative Committee]{.c0}
+
+[]{.c0}
+
+[This Committee shall handle all matters which do not normally fall
+under the oversight of any other Permanent Committee, and will include,
+but not be limited to, such things as: oversight of the work of the
+Stated Clerk and Treasurer; interchurch relations; judicial business;
+insurance and annuities; publicity and general information concerning
+the work of the Presbytery; stewardship and budget matters. The regular
+Subcommittees of the Committee, ]{.c1}[when needed]{.c1}[, shall be as
+follows:]{.c0}
+
+[]{.c0}
+
+[a]{.c1}[) Subcommittee on Insurance and Annuities]{.c0}
+
+[b) Subcommittee on Information and Nominations]{.c0}
+
+[c) Subcommittee on Stewardship and Budget]{.c0}
+
+[d) Subcommittee on Judicial Business]{.c1}
+
+[]{.c0}
+
+[The Administrative Committee through its Subcommittee on Stewardship
+and Budget shall present to Presbytery at each ]{.c1}[Fall Stated
+Meeting]{.c1}[ a ]{.c1}[proposed budget]{.c1}[ for the following
+calendar year for formal adoption by the Presbytery. The budget may be
+amended after formal adoption by the Presbytery but as a condition
+precedent to such amendment, a committee must submit the proposed
+amendment to the Chairman of the Administrative Committee at least
+twenty-eight (28) calendar days prior to the time fixed for a Stated
+Meeting for necessary committee action. A written report outlining the
+proposed amendment and including said concurrence or non-concurrence of
+the Administrative Committee shall be submitted by the proposing
+committee to the Stated Clerk of the Presbytery at least fourteen (14)
+days before the time fixed for such Stated Meeting in order that the
+written report and recommendation may be included in the docket for
+action by the Presbytery.]{.c0}
+
+[]{.c0}
+
+[Presbytery grants the Administrative Committee the power of a
+commission to find a complaint in order and to hear the complaint in
+accordance with ]{.c1}[BCO]{.c1 .c4}[ 4]{.c1}[6.8]{.c1}[ provided both
+the party complaining and the party complained against are agreeable to
+this.]{.c1}
+
+[]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[2. Committee on ]{.c1}[Church Planting and Domestic Missions]{.c1}
+
+[]{.c0}
+
+[This Committee shall handle all matters involving church planting and
+growth within ]{.c1}[the bounds of the Presbytery,]{.c1}[ both for
+particular churches, newly planted churches, and separate missions
+dealing with residents of the area. Specifically, the Committee shall be
+responsible for the following:]{.c0}
+
+[]{.c0}
+
+1.  [developing and coordinating a strategic plan for church planting
+    within the Presbytery;]{.c0}
+2.  [preparing calls to evangelists/organizing pastors to develop new
+    churches (which must finally be approved by a majority vote of the
+    presbytery);]{.c1}[ ]{.c0}
+3.  [coordinating joint efforts with specific churches seeking to plant
+    churches;]{.c0}
+4.  [providing supervision for mission churches and guiding them through
+    the process to particularization. To aid in this process, the Church
+    Planting Committee has the power of a commission to appoint men to
+    serve on the temporary sessions of mission churches;]{.c0}
+5.  [recruiting and identifying potential church planters for our
+    Presbytery;]{.c0}
+6.  [developing and coordinating programs for use by the Church in the
+    areas of Evangelism and Church Growth; ]{.c0}
+7.  [providing aid and assistance to established particular churches
+    having need; ]{.c0}
+
+[]{.c0}
+
+[3. Committee on Foreign Missions]{.c0}
+
+[]{.c0}
+
+[This Committee shall handle all matters pertaining to information and
+programs involving the sending of missionary personnel from
+]{.c1}[within the bounds of Presbytery to serve outside the United
+States]{.c1}[. The regular Subcommittee of the Committee, when needed,
+shall be as follows:]{.c0}
+
+[]{.c0}
+
+[a]{.c1}[) Subcommittee on Recruiting and Support]{.c0}
+
+[b) Subcommittee on Information and Programs]{.c1}
+
+[]{.c0}
+
+[4. Committee on Candidates and Credentials]{.c0}
+
+[]{.c0}
+
+[This Committee shall handle all matters ]{.c1}[pertaining to the care
+of candidates for the ministry, theological examination of men applying
+for ordination to the Gospel Ministry; theological examination of views
+of ministers transferring into the Presbytery;]{.c1}[ examination of
+calls issued to ministers within the Presbytery; and other such matters
+as may involve the credentials of members of Presbytery. The regular
+Subcommittees of the Committee, when needed, shall be as follows:]{.c0}
+
+[]{.c0}
+
+[a]{.c1}[) Subcommittee on Men Under Care (including Licentiates)]{.c0}
+
+[b) Subcommittee on Theological Examination]{.c0}
+
+[c) Subcommittee on Credentials]{.c1}
+
+[]{.c0}
+
+[Ordained ministers coming from outside the Presbytery: They ordinarily
+may not move on to the field without the permission of Presbytery. The
+Candidates & Credentials Committee has the power of a commission to
+grant exceptions to this rule but only after having examined a man on
+his views in committee and only by a majority of the votes cast in a
+properly called committee meeting with a quorum present. Any who move
+onto the field under this provision must understand that their
+examination must still be sustained by Presbytery and their call must
+still be approved by Presbytery.]{.c0}
+
+[]{.c0}
+
+[Candidates licensed to preach in Evangel Presbytery: The Committee may
+act as a commission to grant permission to a current licentiate in
+Evangel Presbytery to move on to the field and to function as a
+]{.c1}[student]{.c1}[ supply or stated supply until the next Stated
+Meeting of Presbytery. The Committee may do this only by a majority of
+the votes cast in a properly called committee meeting with a quorum
+present. Any who move onto the field under this provision must
+understand that their examination must still be sustained by Presbytery
+and their call must still be approved by Presbytery.]{.c1}
+
+[]{.c0}
+
+[5. ]{.c1}[Shepherding Committee]{.c1}
+
+[]{.c0}
+
+[The Shepherding Committee shall be composed of at least three Ministers
+and three Elders. The ]{.c1}[Stated Clerk]{.c1}[ and Moderator shall
+serve as ]{.c1}[ex-officio]{.c1}[ members. This committee shall meet as
+often as necessary to fulfill its responsibilities and its duties shall
+be:]{.c0}
+
+[]{.c0}
+
+[a) To advise and communicate with Ministers in their relation to
+sessions and congregations they serve, condemn erroneous opinions which
+injure the local Church, and visit Churches for the purpose of inquiring
+into and redressing the evils that may have arisen in them.]{.c0}
+
+[b) To encourage Ministers in their devotion and diligence in their
+sacred calling and to present to the Presbytery for approval
+recommendations regarding, censure, dismissal, removal, and judgment of
+delinquent ministers.]{.c0}
+
+[c) ]{.c1}[To counsel with sessions of churches without pastors
+]{.c1}[providing the Session and/or Pulpit Nominating Committee
+assistance in the securing of a pastor, as requested; also to assist in
+the work of dissolving churches peacefully; ]{.c1 .c14}[and to offer
+assistance in securing pastors only at the request of the session or
+local nominating committee, and assist in efforts ]{.c1}[to
+dissolve]{.c1}[ churches peacefully.]{.c1}
+
+[d) To counsel ministers without pastoral charges and to offer
+assistance in securing pastoral charges for them.]{.c0}
+
+[e) To offer general oversight of ministers, missionaries, chaplains,
+and evangelists with or without charge and/or laboring inside or outside
+the bounds of Presbytery.]{.c0}
+
+[f) ]{.c1}[To maintain alert oversight]{.c1}[ of retired or
+incapacitated ministers of Evangel Presbytery, and widows and orphans of
+ministers; and to represent the ministers, their widows, and orphans in
+their needs before Presbytery committees. ]{.c1}
+
+[g) To act as a commission only to dissolve pastoral relations when both
+parties concur in the request and, when appropriate in an instance of
+dissolution, ]{.c1}[to grant transfer of membership to another
+ecclesiastical body or presbyteries]{.c1}[.]{.c0}
+
+[h) To counsel with Sessions at their request in such matters as are
+presented by them.]{.c0}
+
+[i) To perform other duties which Presbytery shall deem wise.]{.c0}
+
+[k) To report to Presbytery whenever necessary or when requested by
+Presbytery.]{.c0}
+
+[k) To maintain a list of ]{.c1}[Licentiates]{.c1}[, Candidates, and
+Ministers who are available for pulpit supply.]{.c0}
+
+[]{.c0}
+
+[6. ]{.c1}[Sessional Records Committee]{.c1}
+
+[]{.c0}
+
+[The Sessional Records Committee shall review the minutes of church
+Sessions for conformity to the Constitution of Evangel Presbytery.]{.c0}
+
+[]{.c0}
+
+[As directed by presbytery\'s Stated Clerk, each church Session is to
+deliver a copy of its court records to the Sessional Record Committee
+for their examination. ]{.c1 .c14}[. All efforts should be made to see
+that no more than one-third of the total roll of churches in Presbytery
+be examined at each Stated Meeting.]{.c0}
+
+[]{.c0}
+
+[Each church Session whose records are scheduled for examination shall
+mail (or email) a copy of their unexamined records to the Chairman of
+the Sessional Records Committee no later than four (4) weeks prior to
+the upcoming Stated Meeting.]{.c0}
+
+[]{.c0}
+
+[The Sessional Records Committee shall examine the records in accordance
+with ]{.c1}[BCO]{.c1 .c4}[ Chapter 4]{.c1}[3 and shall classify
+exceptions as notations, exceptions of form, or exceptions of substance.
+Notations are typographical errors, misspellings, improper punctuation,
+and other minor variations in form and clarity. Exceptions of Form are
+violations of Evangel Presbytery's Guidelines for Keeping Session
+Minutes (appendix) or violations of rules of order. Exceptions of
+Substance are apparent violations of the Scripture or serious
+irregularities from the Constitution of Evangel Presbytery, actions out
+of accord with the ]{.c1}[deliverances]{.c1}[ of the Presbytery, and
+matters of impropriety and important delinquencies. Exceptions of
+Substance should be limited to serious irregularities, gross errors,
+corrupt practices and heretical opinions.]{.c0}
+
+[]{.c0}
+
+[Notations and exceptions of form shall normally be sent to the Clerk of
+Session by the Committee without being read before Presbytery or
+recorded in its minutes. Exceptions of substance shall be reported to
+Presbytery as recommendations to be voted upon. The Sessional Records
+shall be approved without exception; or with exception of form and/or
+substance.]{.c1}
+
+[]{.c0}
+
+[Sessions shall advise the Presbytery by the following Stated Meeting
+through the Sessional Records Committee that they have disposed of the
+exception of substance in one of the following manners: the Session
+agrees with the exception of substance, corrects its record or action if
+possible, and promises to try to be more careful in the future; or, the
+Session respectfully disagrees with the exception of substance, states
+its grounds and refers the exception back to the Presbytery for action.
+]{.c1}[The Sessional Records Committee will bring a recommendation to
+Presbytery regarding whether or not the disposition of the matter should
+be considered  satisfactory. ]{.c1}
+
+[]{.c0}
+
+[The Sessional Records Committee shall report to Presbytery regarding
+any Sessional Records that have not been submitted for review in the
+past year.]{.c0}
+
+[]{.c0}
+
+[The Sessional Records Committee shall provide help for any Clerk of
+Session seeking guidance in preparing Sessional Records for the yearly
+Presbytery review.]{.c0}
+
+[]{.c0}
+
+[7]{.c1}[. Nominating Committee]{.c1}
+
+[]{.c0}
+
+[The Nominating Committee shall be composed of six (6) members with
+parity of Ministers and Elders. The Moderator shall be an ]{.c1}[ex
+officio]{.c1 .c4}[ member of the Nominating Committee. Members shall be
+elected by Presbytery at the Spring/]{.c1}[Summer Stated
+Meeting]{.c1}[ of Presbytery upon nomination from the floor, with terms
+of office to begin immediately upon election. One Minister and two
+Elders shall be elected on odd numbered years, and two Ministers and one
+Elder shall be elected on even numbered years. The quorum shall be at
+least one half of the elected members. The Committee shall report to
+Presbytery at the Spring/Summer Stated Meeting by submitting nominations
+for all Presbytery committees and other vacancies and shall report at
+other meetings as vacancies occur. The Committee shall submit its
+nominations to the Stated Clerk two (2) weeks prior to the Spring/Summer
+Stated Meeting of Presbytery.]{.c1}
+
+[]{.c11}
+
+[]{.c11}
+
+[SECTION 7: TEMPORARY COMMITTEES]{.c11}
+
+[The following Temporary Committees shall be appointed by the Moderator
+for each separate meeting of Presbytery, when required:]{.c0}
+
+[]{.c0}
+
+[A. Program Committee]{.c0}
+
+[]{.c0}
+
+[This Committee shall consist of the
+Moderator]{.c1}[,]{.c1}[ Moderator-in-Nomination, Stated Clerk, and two
+representatives of the Host Church. This Committee shall meet in advance
+of the Presbytery and prepare the proposed docket and handle any
+logistical planning required for the meeting.]{.c0}
+
+[]{.c0}
+
+[B. Overtures Committee]{.c0}
+
+[]{.c0}
+
+[This Committee shall consist of two Ministers and two Elders, with
+power to vote at a given meeting of Presbytery, none of whom may also be
+serving at that time as an officer of Presbytery (other than Trustee),
+or the Chairman of a Permanent Committee. This Committee will handle and
+report back all matters assigned to it by the Presbytery for that
+meeting only.]{.c1}
+
+[]{.c0}
+
+[C. Resolutions]{.c0}
+
+[]{.c0}
+
+[This Committee shall consist of ]{.c1}[one]{.c1}[ Minister]{.c1}[ and
+one ]{.c1}[Elder]{.c1}[, with power to vote at a given meeting of
+Presbytery, none of whom may also be serving at that time as an officer
+of Presbytery (other than Trustee) or the Chairman of ]{.c1}[a
+Permanent]{.c1}[ Committee. This Committee will handle the drafting of
+any resolutions that may be appropriate for that given meeting,
+including resolutions of thanks and any other such resolutions on which
+the Presbytery desires to speak.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 8: AD-INTERIM COMMITTEES AND COMMISSIONS]{.c11}
+
+[The Presbytery may establish Ad-Interim Committees and Commissions to
+deal with matters before it at any time, with the following
+limitations:]{.c0}
+
+[]{.c0}
+
+[A. Each ]{.c1}[Ad-Interim]{.c1}[ Committee or Commission will consist
+of a quorum of a minimum of two Ministers and two Elders, with any
+larger number always being an equal number of e]{.c1}[ach]{.c1}[.]{.c0}
+
+[]{.c0}
+
+[B. No Ad-Interim Committee or Commission may continue past the next
+Stated Meeting of Presbytery unless authorized to do so by a majority
+vote of Presbytery.]{.c0}
+
+[]{.c0}
+
+[C. No Ad-Interim Committee or Commission may continue for more than two
+(2) years in any case.]{.c1}
+
+[]{.c0}
+
+[D. Each Ad-Interim Committee will be appointed by the Moderator. ]{.c0}
+
+[]{.c0}
+
+[E. Each Commission shall be elected by Presbytery.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 9: GENERAL COMMITTEE REGULATIONS]{.c11}
+
+[]{.c0}
+
+[A. Speakers]{.c0}
+
+[]{.c0}
+
+[A committee chairman planning to have a speaker in connection with the
+presentation of his report at a meeting of Presbytery shall notify the
+Administrative Committee as far in advance as possible, and in no case
+later than two (2) weeks prior to the meeting of the Administrative
+Committee, for inclusion on the docket and the speaker's appearance
+before Presbytery.]{.c0}
+
+[]{.c0}
+
+[B. Written Reports]{.c0}
+
+[]{.c0}
+
+[All committee reports shall be in written form with sufficient copies
+for all presbyters in attendance at the meeting of Presbytery. All
+committees shall meet and prepare the reports prior to the time of
+presentation to Presbytery. These reports shall be in the hands of the
+Stated Clerk and the Administrative Committee at least two (2) weeks
+prior to the meeting of Presbytery. Prayer for the work of the
+committees will be included in the opening prayer time. Each committee
+report, therefore, need not be opened with prayer. Nothing contained
+herein, however, would prohibit prayer for a specific item or need.
+]{.c1}[Each retiring chairman of a committee shall transmit all files,
+records and reports pertaining to the committee to the incoming
+committee chairman]{.c1}[. In the event of the disestablishment of a
+committee, all such records shall be placed in the hands of the Stated
+Clerk.]{.c0}
+
+[]{.c0}
+
+[C. Activities]{.c0}
+
+[]{.c0}
+
+[All committees shall hold duly constituted meetings at least once a
+year and report at least annually to Presbytery. If any committee
+believes that its activities are not contributing to the work of the
+Presbytery, it shall recommend its dissolution to Presbytery. If no
+meeting is held by a committee during the year, the Administrative
+Committee shall consider what shall be done about the designated tasks
+assigned to that committee, and report to the next meeting of
+Presbytery. ]{.c1}[Committees ought not to schedule meetings concurrent
+with main presbytery meetings. ]{.c1}[The quorum for any committee
+meeting shall be two Ministers and two Elders unless otherwise
+stated.]{.c0}
+
+[]{.c0}
+
+[D. Subcommittees]{.c0}
+
+[]{.c0}
+
+[Committees, when it is expedient, shall be empowered to create such
+subcommittees as are deemed necessary by them. Such subcommittees shall
+report to Presbytery through the parent committee. They shall not be
+disestablished without the knowledge of Presbytery. The composition of
+such subcommittees shall be carried into the minutes of Presbytery
+together with the terms of office of their members. The
+Bylaws]{.c1}[ requirements]{.c1}[ for committee membership shall apply
+to subcommittees.]{.c0}
+
+[]{.c0}
+
+[E. Membership]{.c0}
+
+[]{.c0}
+
+[Only in extraordinary cases shall the membership of a committee include
+more than two representatives from the same particular
+church.]{.c1}[ Membership on all committees shall be as designated in
+the Manual. Terms of membership shall expire at the close of the Winter
+meeting of Presbytery. Filling an unexpired term is not to be counted as
+a term. All committees shall be arranged in classes so that not more
+than one-third (1/3) shall retire at any one time, except committees
+with fewer than six (6) members.]{.c1}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 10: ELECTRONIC MEETINGS]{.c11}
+
+[Sometimes matters arise needing action prior to the next stated meeting
+of presbytery. When a special called meeting of presbytery or one of its
+committees, subcommittees, or commissions is impractical, special called
+meetings are allowed via any means of communication which allows all
+participants simultaneously to hear and communicate with each other (for
+example, tele-conference or video-conference). If a meeting is conducted
+by such means, the presiding officer shall inform all participants at
+the commencement of the meeting that a meeting is taking place at which
+official business may be transacted. Any participant in a meeting by
+such means shall be deemed present in person at such meeting. The
+moderator of the meeting may establish reasonable rules to conduct the
+meeting. Committees and subcommittees may hold their regular stated
+meetings in this manner, also.]{.c0}
+
+[]{.c0}
+
+[Written consent by the members of the Presbytery, a committee, or a
+subcommittee can be undertaken via email, or other electronic record
+communication, if the written consent setting forth the action to be
+taken is circulated to all members via email, or other electronic record
+communication, ]{.c1}[and at least eighty percent (80%) of the members
+indicate their approval]{.c1}[ by return email or other approved
+electronic record communication. The Presbytery shall confirm with each
+member the electronic address or addresses, such as an email address or
+text message number, for that member to be used for purposes of sending
+and receiving email, text or other electronic record communications, and
+for the purpose of notices to and from the Presbytery, and shall
+maintain such information as part of the Presbytery's current records,
+which may be maintained electronically. The Presbytery shall provide its
+address, and the electronic addresses of the other members, to be used
+for purposes of taking such action. The Presbytery may provide for any
+particular requirements, method or means for taking action
+electronically and for notices to and from the Presbytery and its
+members, in which case the action to be taken shall be taken in
+accordance with such requirements, method, or means.]{.c1}
+
+[]{.c11}
+
+[]{.c11}
+
+[SECTION 11: PARLIAMENTARY AUTHORITY]{.c11}
+
+[All parliamentary procedures must be in accordance with the ]{.c1}[Book
+of Church Order]{.c1 .c4}[ and the most recent edition of
+]{.c1}[Robert's Rules of Order]{.c1 .c4}[. The Moderator may appoint a
+member of Presbytery to assist him in these matters, who will serve as
+Parliamentarian only for the term of the actual meeting.]{.c0}
+
+[]{.c0}
+
+[]{.c0}
+
+[SECTION 12: SUSPENSION AND AMENDMENT OF BYLAWS]{.c11}
+
+[These Bylaws may be temporarily suspended, amended, or revised at any
+Stated Meeting of Presbytery by a two-thirds (2/3) majority of the votes
+cast, unless such suspension, amendment, or revision would violate any
+part of the ]{.c1}[Book of Church Order]{.c1 .c4}[. Any permanent
+amendment, revision, or repeal of the Bylaws must be proposed in writing
+at a Stated Meeting, approved by a two-thirds (2/3) majority of the
+votes cast of that Stated Meeting, and ratified by a two-thirds (2/3)
+majority of the votes cast at the following Stated Meeting of
+Presbytery.]{.c1}
+
+------------------------------------------------------------------------
+
+[]{.c11}
+
+[APPENDIX 1: ]{.c12}[GUIDELINES FOR KEEPING SESSION MINUTES]{.c11}
+
+[]{.c0}
+
+[A. Session Minutes must include the following: ]{.c0}
+
+[]{.c0}
+
+1.  [A statement of the date, time, place, and purpose of the meeting
+    (Stated, Called, adjourned stated, etc.) ]{.c0}
+2.  [If the meeting is a called meeting ]{.c1}[the minutes must include
+    the portion of the call that indicates the purpose of the
+    meeting.]{.c1}
+3.  [That the meeting was opened and closed with prayer. ]{.c0}
+4.  [The names of all in attendance or absent from the meeting. ]{.c0}
+5.  [That a quorum was present for the meeting. ]{.c0}
+6.  [Communications received, and any action taken because of the
+    communications. ]{.c0}
+7.  [A]{.c1}[pproval]{.c1}[ of minutes from previous meetings. ]{.c0}
+8.  [A statement that indicates the review and approval of the Diaconate
+    minutes.]{.c0}
+9.  [A statement that indicates the receiving of the Treasurer's report
+    as information. ]{.c0}
+10. [The actions of the Session including all the motions adopted and
+    business transacted. ]{.c0}
+
+[]{.c0}
+
+[B. When applicable, the minutes shall include the following:]{.c0}
+
+[]{.c0}
+
+1.  [A record of all covenant baptisms, baptisms upon profession of
+    faith, and dates of the celebration of the Lord's Supper.]{.c0}
+2.  [Election of commissioners to presbytery. ]{.c0}
+3.  [A record of the call and purpose for each congregational or
+    corporation meeting.]{.c0}
+4.  [A motion calling for the nomination and election of church
+    officers.]{.c0}
+5.  [A record of the officers nominated, trained and examined by the
+    Session.]{.c0}
+6.  [The December or the following January minutes must include a
+    statement that records the pastor's annual housing allowance
+    approved by the Session.]{.c0}
+7.  [The ]{.c1}[BCO]{.c1 .c4}[ requires Sessions to "\...]{.c1}[keep a
+    fair record of baptisms, of those admitted to the Lord's table, of
+    non-communing members, and of the births, marriages, deaths, and
+    dismissions of church members and of any baptisms and marriage
+    ceremonies presided over by the pastors of the church outside its
+    bounds" (]{.c1}[BCO]{.c1 .c4}[ 14.8).]{.c0}
+8.  [A copy of the approved operating budget and the ]{.c1}[yearly
+    statistical report]{.c1}[ should be attached to December's minutes.
+    ]{.c1}
+
+[]{.c0}
+
+[All minutes should be typed. They should be simple in word and in
+formatting. Email should be used when circulating minutes among members
+of the Session. The minutes should be included in the body of the email
+and not as an attachment. Once minutes have been officially adopted by
+the Session, they should be archived digitally using the PDF file
+format. To archive newly approved minutes, they should be added to the
+existing PDF archive. The pages should be consecutively numbered,
+leaving no blank pages between meetings and no records left out. As with
+all important digital documents, great care should be taken to ensure
+that Session minute archives have both local and remote backups.
+Sessions may keep a physical hard copy of their minutes in addition to
+their digital copy. If they choose to do so, however, they must ensure
+that the physical archives do not conflict with the digital ones.]{.c0}
+
+[]{.c0}
+
+[C. After the Meeting:]{.c0}
+
+[]{.c0}
+
+1.  [Complete any necessary correspondence as required by actions taken
+    by the Session.]{.c0}
+2.  [Send transfer of the communicant's membership certificates to other
+    churches.]{.c0}
+3.  [Update the church membership records as required by action of the
+    Session (Additions, removals, etc.).]{.c0}
+
+------------------------------------------------------------------------
+
+[]{.c0}
+
+[APPENDIX 2: EVANGEL PRESBYTERY BYLAWS REVISION FORM]{.c11}
+
+[]{.c0}
+
+[Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Church: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+]{.c0}
+
+[]{.c0}
+
+[Circle one: ]{.c1}[Pastor]{.c12}[ / ]{.c1}[Elder]{.c12}[ ]{.c0}
+
+[]{.c0}
+
+[Suggested Change to Bylaws: ]{.c0}
+
+[]{.c0}
+
+[Circle all that apply: Is this a ]{.c1}[Revision]{.c12}[ /
+]{.c1}[Addition]{.c12}[ / ]{.c1}[Removal]{.c12}[? ]{.c0}
+
+[]{.c0}
+
+[Address of change: \_\_\_\_\_\_\_\_\_\_\_ (for example, "Section 8, B")
+]{.c0}
+
+[]{.c0}
+
+[Please write out suggested amendment:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+]{.c0}
+
+[]{.c0}
+
+[Please present rationale and Scripture references for suggested
+amendment:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+]{.c0}
+
+[]{.c0}
+
+[Are there others who share your view? ]{.c0}
+
+[Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pastor /
+Elder         Church:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ]{.c0}
+
+[Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pastor /
+Elder         Church:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ]{.c0}
+
+[Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pastor /
+Elder         Church:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ]{.c0}
+
+[]{.c0}
+
+[Please email the completed form to the Stated Clerk of Evangel
+Presbytery (clerk@evangelpresbytery.com) at least one month in advance
+of a stated meeting for consideration at that meeting.]{.c0}
+
+[]{.c0}
+
+<div>
+
+[]{.c22}
+
+</div>
