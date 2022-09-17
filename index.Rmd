@@ -318,11 +318,11 @@ Your name:
 
 Your church:
 
-Are you a pastor or an elder?
+Are you a **pastor** or an **elder**?
 
 **Suggested change to bylaws:**
 
-Is this a revision, addition or removal?
+Is this a **revision**, **addition** or **removal**?
 
 Address of change: *(for example, “Section 8, B”)*
 
