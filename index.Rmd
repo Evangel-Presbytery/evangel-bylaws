@@ -11,4 +11,4 @@ description: "These are the bylaws for Evangel Presbytery."
 
 # Welcome
 
-Hello, world!
+These are the official Bylaws for Evangel Presbytery. You can always find the latest online version at https://bylaws.evangelpresbytery.com and download the **latest PDF version here**. A record of the changes can be found in the [Updates](https://bylaws.evangelpresbytery.com/updates.html) section at the end of the book.
