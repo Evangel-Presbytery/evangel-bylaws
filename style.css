@@ -66,24 +66,24 @@ blockquote {
 }
 
 a {
-    color: #9e000b;
+    color: #ceaa68;
 }
 
 a:hover {
-    color: #6b0009;
+    color: #686868;
     text-decoration: none !important;
 }
 
 .btn-outline-primary {
-    color: #9e000b;
-    border-color: #9e000b;
+    color: #ceaa68;
+    border-color: #ceaa68;
 }
 
 .btn-outline-primary:hover {
-    background-color: #9e000b;
-    border-color: #9e000b;
+    background-color: #ceaa68;
+    border-color: #ceaa68;
 }
 
 .bg-primary {
-    background-color: #6b0009 !important;
+    background-color: #686868 !important;
 }
