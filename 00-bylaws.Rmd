@@ -79,7 +79,7 @@ B.  Special Called Meeting
     Special called meetings of presbytery will only be held when timing necessitates decisions prior to the next stated meeting. Such meetings will be called in strict accordance with the *Book of Church Order*.
 C.  Quorum
 
-    Any three (3) Ministers belonging to the Presbytery, together with at least three (3) Ruling Elders, representing at least three (3) churches, being met at the time and place appointed, shall be a quorum competent to proceed to business ( *BCO* 15.5). At any time that attendance at a meeting should fall below the level required for a quorum, the only business which may be conducted is a motion to adjourn the meeting.
+    Any three (3) Ministers belonging to the Presbytery, together with at least three (3) Ruling Elders, representing at least three (3) churches, being met at the time and place appointed, shall be a quorum competent to proceed to business ( [*BCO* 15.5](https://bco.evangelpresbytery.com/form-of-government.html#the-presbytery)). At any time that attendance at a meeting should fall below the level required for a quorum, the only business which may be conducted is a motion to adjourn the meeting.
 D.  Docket
 
     The normal docket for Stated Meetings shall be as follows:
@@ -134,7 +134,7 @@ D.  Permanent Committee Descriptions
 
         The Administrative Committee through its Subcommittee on Stewardship and Budget shall present to Presbytery at each Fall Stated Meeting a proposed budget for the following calendar year for formal adoption by the Presbytery. The budget may be amended after formal adoption by the Presbytery but as a condition precedent to such amendment, a committee must submit the proposed amendment to the Chairman of the Administrative Committee at least twenty-eight (28) calendar days prior to the time fixed for a Stated Meeting for necessary committee action. A written report outlining the proposed amendment and including said concurrence or non-concurrence of the Administrative Committee shall be submitted by the proposing committee to the Stated Clerk of the Presbytery at least fourteen (14) days before the time fixed for such Stated Meeting in order that the written report and recommendation may be included in the docket for action by the Presbytery.
 
-        Presbytery grants the Administrative Committee the power of a commission to find a complaint in order and to hear the complaint in accordance with *BCO* 46.8 provided both the party complaining and the party complained against are agreeable to this.
+        Presbytery grants the Administrative Committee the power of a commission to find a complaint in order and to hear the complaint in accordance with [*BCO* 46.8](https://bco.evangelpresbytery.com/the-rules-of-discipline.html#complaints) provided both the party complaining and the party complained against are agreeable to this.
 
     2. Committee on Church Planting and Domestic Missions
 
@@ -190,7 +190,7 @@ D.  Permanent Committee Descriptions
         
         Each church Session whose records are scheduled for examination shall mail (or email) a copy of their unexamined records to the Chairman of the Sessional Records Committee no later than four (4) weeks prior to the upcoming Stated Meeting.
         
-        The Sessional Records Committee shall examine the records in accordance with *BCO* Chapter 43 and shall classify exceptions as notations, exceptions of form, or exceptions of substance. Notations are typographical errors, misspellings, improper punctuation, and other minor variations in form and clarity. Exceptions of Form are violations of Evangel Presbytery’s Guidelines for Keeping Session Minutes (appendix) or violations of rules of order. Exceptions of Substance are apparent violations of the Scripture or serious irregularities from the Constitution of Evangel Presbytery, actions out of accord with the deliverances of the Presbytery, and matters of impropriety and important delinquencies. Exceptions of Substance should be limited to serious irregularities, gross errors, corrupt practices and heretical opinions.
+        The Sessional Records Committee shall examine the records in accordance with [*BCO* Chapter 43](https://bco.evangelpresbytery.com/the-rules-of-discipline.html#general-review-and-control) and shall classify exceptions as notations, exceptions of form, or exceptions of substance. Notations are typographical errors, misspellings, improper punctuation, and other minor variations in form and clarity. Exceptions of Form are violations of Evangel Presbytery’s Guidelines for Keeping Session Minutes (appendix) or violations of rules of order. Exceptions of Substance are apparent violations of the Scripture or serious irregularities from the Constitution of Evangel Presbytery, actions out of accord with the deliverances of the Presbytery, and matters of impropriety and important delinquencies. Exceptions of Substance should be limited to serious irregularities, gross errors, corrupt practices and heretical opinions.
         
         Notations and exceptions of form shall normally be sent to the Clerk of Session by the Committee without being read before Presbytery or recorded in its minutes. Exceptions of substance shall be reported to Presbytery as recommendations to be voted upon. The Sessional Records shall be approved without exception; or with exception of form and/or substance.
         
@@ -289,7 +289,7 @@ B. When applicable, the minutes shall include the following:
 4. A motion calling for the nomination and election of church officers.
 5. A record of the officers nominated, trained and examined by the Session.
 6. The December or the following January minutes must include a statement that records the pastor’s annual housing allowance approved by the Session.
-7. The *BCO* requires Sessions to “...keep a fair record of baptisms, of those admitted to the Lord’s table, of non-communing members, and of the births, marriages, deaths, and dismissions of church members and of any baptisms and marriage ceremonies presided over by the pastors of the church outside its bounds” ( *BCO* 14.8).
+7. The *BCO* requires Sessions to “...keep a fair record of baptisms, of those admitted to the Lord’s table, of non-communing members, and of the births, marriages, deaths, and dismissions of church members and of any baptisms and marriage ceremonies presided over by the pastors of the church outside its bounds” ([*BCO* 14.8](https://bco.evangelpresbytery.com/form-of-government.html#the-church-session)).
 8. A copy of the approved operating budget and the yearly statistical report should be attached to December’s minutes.
 
 All minutes should be typed. They should be simple in word and in formatting. Email should be used when circulating minutes among members of the Session. The minutes should be included in the body of the email and not as an attachment. Once minutes have been officially adopted by the Session, they should be archived digitally using the PDF file format. To archive newly approved minutes, they should be added to the existing PDF archive. The pages should be consecutively numbered, leaving no blank pages between meetings and no records left out. As with all important digital documents, great care should be taken to ensure that Session minute archives have both local and remote backups. Sessions may keep a physical hard copy of their minutes in addition to their digital copy. If they choose to do so, however, they must ensure that the physical archives do not conflict with the digital ones.
@@ -320,4 +320,4 @@ Please write out the suggested amendment:
 
 Please present rationale and Scripture references for the suggested amendment: 
 
-Are there others who share your view? Please list them below. Please include each man's **name**, **church** and **church office**.
+Are there others who share your view? Please list them below. *(Please include each man's **name**, **church** and **church office**.)*
