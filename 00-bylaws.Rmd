@@ -266,39 +266,36 @@ All parliamentary procedures must be in accordance with the *Book of Church Orde
 
 These Bylaws may be temporarily suspended, amended, or revised at any Stated Meeting of Presbytery by a two-thirds (2/3) majority of the votes cast, unless such suspension, amendment, or revision would violate any part of the *Book of Church Order* . Any permanent amendment, revision, or repeal of the Bylaws must be proposed in writing at a Stated Meeting, approved by a two-thirds (2/3) majority of the votes cast of that Stated Meeting, and ratified by a two-thirds (2/3) majority of the votes cast at the following Stated Meeting of Presbytery.
 
-## Appendix 1: Guidelines for Keeping Session Minutes {-}
+## Appendix 1: Guidelines for Keeping Sessional Records {-}
 
-A. Session Minutes must include the following:
+### Formatting Guidelines
 
-1. A statement of the date, time, place, and purpose of the meeting (Stated, Called, adjourned stated, etc.)
-2. If the meeting is a called meeting the minutes must include the portion of the call that indicates the purpose of the meeting.
-3. That the meeting was opened and closed with prayer.
-4. The names of all in attendance or absent from the meeting.
-5. That a quorum was present for the meeting.
-6. Communications received, and any action taken because of the communications.
-7. Approval of minutes from previous meetings.
-8. A statement that indicates the review and approval of the Diaconate minutes.
-9. A statement that indicates the receiving of the Treasurer’s report as information.
-10. The actions of the Session including all the motions adopted and business transacted.
+All minutes should be typed. They should be simple in word and in formatting. Once minutes have been officially adopted by the Session, they should be archived digitally using the PDF file format. When submitting minutes for review by the Sessional Records Committee, all minutes from all meetings (session, congregational, etc.) should be included in one PDF document in chronological order with pages numbered consecutively, leaving no blank pages between meetings and no records left out. As with all important digital documents, great care should be taken to ensure that Session minute archives have both local and remote backups. Sessions may keep a physical hard copy of their minutes in addition to their digital copy. If they choose to do so, however, they must ensure that the physical archives do not conflict with the digital ones. The annual budget and annual statistical report should be submitted to the Sessional Records as separate PDF files.
 
-B. When applicable, the minutes shall include the following:
 
-1. A record of all covenant baptisms, baptisms upon profession of faith, and dates of the celebration of the Lord’s Supper.
-2. Election of commissioners to presbytery.
-3. A record of the call and purpose for each congregational or corporation meeting.
-4. A motion calling for the nomination and election of church officers.
-5. A record of the officers nominated, trained and examined by the Session.
-6. The December or the following January minutes must include a statement that records the pastor’s annual housing allowance approved by the Session.
-7. The *BCO* requires Sessions to “...keep a fair record of baptisms, of those admitted to the Lord’s table, of non-communing members, and of the births, marriages, deaths, and dismissions of church members and of any baptisms and marriage ceremonies presided over by the pastors of the church outside its bounds” ([*BCO* 14.8](https://bco.evangelpresbytery.com/form-of-government.html#the-church-session)).
-8. A copy of the approved operating budget and the yearly statistical report should be attached to December’s minutes.
-
-All minutes should be typed. They should be simple in word and in formatting. Email should be used when circulating minutes among members of the Session. The minutes should be included in the body of the email and not as an attachment. Once minutes have been officially adopted by the Session, they should be archived digitally using the PDF file format. To archive newly approved minutes, they should be added to the existing PDF archive. The pages should be consecutively numbered, leaving no blank pages between meetings and no records left out. As with all important digital documents, great care should be taken to ensure that Session minute archives have both local and remote backups. Sessions may keep a physical hard copy of their minutes in addition to their digital copy. If they choose to do so, however, they must ensure that the physical archives do not conflict with the digital ones.
-
-C. After the Meeting:
-
-1. Complete any necessary correspondence as required by actions taken by the Session.
-2. Send transfer of the communicant’s membership certificates to other churches.
-3. Update the church membership records as required by action of the Session (Additions, removals, etc.).
+A.  Session Minutes must include the following:
+    1. A statement of the date, time, place, and purpose of the meeting (Stated (i.e., regular scheduled), Called, special called, etc.)
+    2. The portion of a call that indicates the purpose of any called meeting.
+    3. That the meeting was opened and closed with prayer.
+    4. The names of all in attendance or absent from the meeting.
+    5. That a quorum was present for the meeting.
+    6. Communications received, and any action taken because of the communications.
+    7. Adoption of the minutes from previous meeting(s).
+    8. A statement that indicates the receiving of the Treasurer’s report (a.k.a financial report) as information.
+    9. The actions of the Session including all the motions adopted and business transacted.
+B.  When applicable, the minutes shall include the following:
+    1. A record of all baptisms and dates of the celebration of the Lord’s Supper.
+    2. Election of commissioners to presbytery.
+    3. A record of the call and purpose for each congregational or corporation meeting.
+    4. A motion calling for the nomination and election of church officers.
+    5. A record of the officers nominated, trained and examined by the Session.
+    6. A statement that indicates the review and approval of the Deacons' minutes.
+    7. A statement in the December or the following Januar minutes that records annual housing allowance(s) approved by the Session for pastoral staff.
+    8. "A fair record of baptisms, of those admitted to the Lord’s table, of non-communing members, and of the births, marriages, deaths, and dismissions of church members and of any baptisms and marriage ceremonies presided over by the pastors of the church outside its bounds” ([*BCO* 14.8](https://bco.evangelpresbytery.com/form-of-government.html#the-church-session)).
+    9. A copy of the approved operating budget and the yearly statistical report should be attached to the minutes once per year.
+C.  The following additional records should be kept and submitted once per year:
+    An annual statistical report which contains “...a fair record of baptisms, of those admitted to the Lord’s table, of non-communing members, and of the births, marriages, deaths, and dismissions of church members and of any baptisms and marriage ceremonies presided over by the pastors of the church outside its bounds” (BCO 14.8).
+A copy of the approved operating budget.
 
 ## Appendix 2: Evangel Presbytery Bylaws Revision Form {-}
 
