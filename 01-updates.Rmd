@@ -2,5 +2,7 @@
 
 *Significant changes to these Bylaws will be listed here. For a detailed diff hosted at Github, [click here](https://github.com/Evangel-Presbytery/evangel-bylaws).*
 
-* **Current version:** Migrated from Google Docs to Bookdown hosted on Github pages.
-* Changes to the [Guidelines for Keeping Sessional Records](https://bylaws.evangelpresbytery.com/bylaws.html#appendix-1-guidelines-for-keeping-sessional-records) were ratified by Presbytery on June 2, 2022.
+* **Current version:** Changes which were ratified at the October 7, 2022 presbytery meeting:
+  * Updates to the [Guidelines for Keeping Sessional Records](https://bylaws.evangelpresbytery.com/bylaws.html#appendix-1-guidelines-for-keeping-sessional-records).
+  * Updates to section 5.A.
+* Migrated from Google Docs to Bookdown hosted on Github pages.
