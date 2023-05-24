@@ -1,3 +1,3 @@
 # Evangel Presbytery Bylaws
 
-Read and download it at: https://bylaws.evangelpresbytery.com
+Read and download it here: https://bylaws.evangelpresbytery.com
