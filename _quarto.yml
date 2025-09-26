@@ -10,7 +10,6 @@ book:
   repo-url: https://github.com/Evangel-Presbytery/evangel-bylaws
   chapters:
     - index.qmd
-    - 00-bylaws.qmd
     - 01-updates.qmd
   sidebar:
     header: TOCheader.qmd
