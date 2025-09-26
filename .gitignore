@@ -9,7 +9,6 @@ rsconnect
 _quarto_files
 /.quarto/
 /_site/
-*.html
 /.luarc.json
 **/*.quarto_ipynb
 .idea
