@@ -1,18 +1,18 @@
-# Bylaws {-}
+# Bylaws
 
-## Section 1: Name {-}
+## Section 1: Name
 
 The incorporated name of this body shall be "Evangel Presbytery, Inc."
 
-## Section 2: Object {-}
+## Section 2: Object
 
 The object of this body is to fulfill the requirements for the Presbytery as set forth in the *Book of Church Order of Evangel Presbytery* ([15.8](https://bco.evangelpresbytery.com/form-of-government.html#the-presbytery); hereafter, “ *Book of Church Order” or “BCO”* ). The doctrinal and governmental standards of this Presbytery shall be those stated in the *Book of Church Order* ([Preface, C](https://bco.evangelpresbytery.com/preface.html)). These Bylaws are not to conflict with the *Book of Church Order* , and in any case of conflict, the standards of the *Book of Church Order* shall take precedence.
 
-## Section 3: Members {-}
+## Section 3: Members
 
 Members of this Presbytery shall be in two classes: Ordained Ministers of the Word (Pastors) and the particular churches. Standards for examination for membership of both Ministers and churches shall be as set forth in the *Book of Church Order*. Representation of elders from particular churches shall be in accordance with the provisions of the *Book of Church Order*.
 
-## Section 4: Officers {-}
+## Section 4: Officers
 
 All officers shall be elected by a majority of the votes cast at the Stated Meeting scheduled for that purpose. The various offices of the Presbytery, and their functions, are as follows:
 
@@ -63,7 +63,7 @@ F.  Trustees
     2. Tenure: Trustees will serve for the period of their Committee Chairmanship, or three (3) years, whichever is shorter. Trustees may be re-elected to office upon two-thirds (2/3)of the votes cast. Election will be held at Spring/Summer Stated Meeting.
     3. Duties: The Trustees shall receive and hold for use of Presbytery all real and personal property, grants, endowments, and such other funds acquired, devised, purchased, or donated, not otherwise disposed of. They shall be the legal Officers of the Corporation. As long as the Presbytery is incorporated under the laws of the State of Indiana, there shall be three directors (trustees) at all times.
 
-## Section 5: Meetings {-}
+## Section 5: Meetings
 
 A.  Stated Meetings
 
@@ -111,7 +111,7 @@ E.  Attendance
 
     Unless honorably retired or declared infirm, all Ministers are expected to attend all meetings of Presbytery. Permission for absences shall be requested through the Stated Clerk or from the floor during the Stated Clerk's report.
 
-## Section 6: Permanent Committees {-}
+## Section 6: Permanent Committees
 
 A.  Membership on Committees
 
@@ -204,7 +204,7 @@ D.  Permanent Committee Descriptions
     
         The Nominating Committee shall be composed of six (6) members with parity of Ministers and Elders. The Moderator shall be an *ex officio* member of the Nominating Committee. Members shall be elected by Presbytery at the Spring/Summer Stated Meeting of Presbytery upon nomination from the floor, with terms of office to begin immediately upon election. One Minister and two Elders shall be elected on odd numbered years, and two Ministers and one Elder shall be elected on even numbered years. The quorum shall be at least one half of the elected members. The Committee shall report to Presbytery at the Spring/Summer Stated Meeting by submitting nominations for all Presbytery committees and other vacancies and shall report at other meetings as vacancies occur. The Committee shall submit its nominations to the Stated Clerk two (2) weeks prior to the Spring/Summer Stated Meeting of Presbytery.
 
-## Section 7: Temporary Committees {-}
+## Section 7: Temporary Committees
 
 The following Temporary Committees shall be appointed by the Moderator for each separate meeting of Presbytery, when required:
 
@@ -220,7 +220,7 @@ C.  Resolutions
 
     This Committee shall consist of one Minister and one Elder, with power to vote at a given meeting of Presbytery, none of whom may also be serving at that time as an officer of Presbytery (other than Trustee) or the Chairman of a Permanent Committee. This Committee will handle the drafting of any resolutions that may be appropriate for that given meeting, including resolutions of thanks and any other such resolutions on which the Presbytery desires to speak.
 
-## Section 8: Ad-Interim Committees and Commissions {-}
+## Section 8: Ad-Interim Committees and Commissions
 
 The Presbytery may establish Ad-Interim Committees and Commissions to deal with matters before it at any time, with the following limitations:
 
@@ -230,7 +230,7 @@ C.  No Ad-Interim Committee or Commission may continue for more than two (2) yea
 D.  Each Ad-Interim Committee will be appointed by the Moderator.
 E.  Each Commission shall be elected by Presbytery.
 
-## Section 9: General Committee Regulations {-}
+## Section 9: General Committee Regulations
 
 A.  Speakers
 
@@ -252,21 +252,21 @@ E.  Membership
 
     Only in extraordinary cases shall the membership of a committee include more than two representatives from the same particular church. Membership on all committees shall be as designated in the Manual. Terms of membership shall expire at the close of the Winter meeting of Presbytery. Filling an unexpired term is not to be counted as a term. All committees shall be arranged in classes so that not more than one-third (1/3) shall retire at any one time, except committees with fewer than six (6) members.
 
-## Section 10: Electronic Meetings {-}
+## Section 10: Electronic Meetings
 
 Sometimes matters arise needing action prior to the next stated meeting of presbytery. When a special called meeting of presbytery or one of its committees, subcommittees, or commissions is impractical, special called meetings are allowed via any means of communication which allows all participants simultaneously to hear and communicate with each other (for example, tele-conference or video-conference). If a meeting is conducted by such means, the presiding officer shall inform all participants at the commencement of the meeting that a meeting is taking place at which official business may be transacted. Any participant in a meeting by such means shall be deemed present in person at such meeting. The moderator of the meeting may establish reasonable rules to conduct the meeting. Committees and subcommittees may hold their regular stated meetings in this manner, also.
 
 Written consent by the members of the Presbytery, a committee, or a subcommittee can be undertaken via email, or other electronic record communication, if the written consent setting forth the action to be taken is circulated to all members via email, or other electronic record communication, and at least eighty percent (80%) of the members indicate their approval by return email or other approved electronic record communication. The Presbytery shall confirm with each member the electronic address or addresses, such as an email address or text message number, for that member to be used for purposes of sending and receiving email, text or other electronic record communications, and for the purpose of notices to and from the Presbytery, and shall maintain such information as part of the Presbytery’s current records, which may be maintained electronically. The Presbytery shall provide its address, and the electronic addresses of the other members, to be used for purposes of taking such action. The Presbytery may provide for any particular requirements, method or means for taking action electronically and for notices to and from the Presbytery and its members, in which case the action to be taken shall be taken in accordance with such requirements, method, or means.
 
-## Section 11: Parliamentary Authority {-}
+## Section 11: Parliamentary Authority
 
 All parliamentary procedures must be in accordance with the *Book of Church Order* and the most recent edition of *Robert’s Rules of Order* . The Moderator may appoint a member of Presbytery to assist him in these matters, who will serve as Parliamentarian only for the term of the actual meeting.
 
-## Section 12: Suspension and Amendment of Bylaws {-}
+## Section 12: Suspension and Amendment of Bylaws
 
 These Bylaws may be temporarily suspended, amended, or revised at any Stated Meeting of Presbytery by a two-thirds (2/3) majority of the votes cast, unless such suspension, amendment, or revision would violate any part of the *Book of Church Order* . Any permanent amendment, revision, or repeal of the Bylaws must be proposed in writing at a Stated Meeting, approved by a two-thirds (2/3) majority of the votes cast of that Stated Meeting, and ratified by a two-thirds (2/3) majority of the votes cast at the following Stated Meeting of Presbytery.
 
-## Appendix 1: Guidelines for Keeping Sessional Records {-}
+## Appendix 1: Guidelines for Keeping Sessional Records
 
 A.  Formatting Guidelines
 
@@ -301,7 +301,7 @@ D.  The following additional records should be kept and submitted once per year:
     1. An annual statistical report which contains “...a fair record of baptisms, of those admitted to the Lord’s table, of non-communing members, and of the births, marriages, deaths, and dismissions of church members and of any baptisms and marriage ceremonies presided over by the pastors of the church outside its bounds” ([BCO 14.8](https://bco.evangelpresbytery.com/form-of-government.html#the-church-session)).
     2. A copy of the approved operating budget.
 
-## Appendix 2: Evangel Presbytery Bylaws Revision Form {-}
+## Appendix 2: Evangel Presbytery Bylaws Revision Form
 
 *Please copy and paste the following form into an email or document and send the completed form to the Stated Clerk of Evangel Presbytery (clerk@evangelpresbytery.com) at least one month in advance of a stated meeting for consideration at that meeting.*
 
