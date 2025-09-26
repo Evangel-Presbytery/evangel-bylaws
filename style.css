@@ -1,14 +1,11 @@
-header div h1 a[href="index.html"]::before {
-    display: block;
-    content: '';
-    background-image: url(logo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100px;
-    margin-top: -10px;
-    margin-bottom: 10px;
+/* Hide publication meta-data on title page */
+.quarto-title-meta-heading {
+  display: none;
 }
+.quarto-title-meta-contents {
+  display: none;
+}
+/*--*/
 
 .header-section-number {
     display: none;
