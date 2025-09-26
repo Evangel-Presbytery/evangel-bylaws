@@ -15,7 +15,7 @@ book:
   sidebar:
     header: TOCheader.qmd
     search: true
-  favicon: "logo.png"
+  favicon: "evangel-favicon-196.png"
   navbar: 
     title: false
     logo: logo-white.png
