@@ -1,11 +1,12 @@
-# Updates {-}
+# Updates
 
 *Significant changes to these Bylaws will be listed here. For a detailed diff hosted at Github, [click here](https://github.com/Evangel-Presbytery/evangel-bylaws).*
 
-* **Current version:** Amendment to section 4.A.4.f regarding the moderator appointing committee members of temporary and ad interim committees rather than nominating them and getting approval at presbytery. Ratified at the October 4, 2024 meeting of presbytery.
+* **Current version:**
+* Amendment to section 4.A.4.f regarding the moderator appointing committee members of temporary and ad interim committees rather than nominating them and getting approval at presbytery. Ratified at the October 4, 2024 meeting of presbytery.
 * Amendments to sections 5.D, 6.D.6 and Appendix 1.A regarding Presbytery and Session minutes. Ratified at the October 6, 2023 meeting of Presbytery.
 * Amendment regarding when session records should be delivered to the SRC (Bylaws 6.D.6) ratified at the June 2023 meeting of Presbytery.
 * Changes which were ratified at the October 7, 2022 presbytery meeting:
-  * Updates to the [Guidelines for Keeping Sessional Records](https://bylaws.evangelpresbytery.com/bylaws.html#appendix-1-guidelines-for-keeping-sessional-records).
+  * Updates to the [Guidelines for Keeping Sessional Records](#appendix-1-guidelines-for-keeping-sessional-records).
   * Updates to section 5.A.
 * Migrated from Google Docs to Bookdown hosted on Github pages.
