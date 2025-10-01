@@ -1,7 +1,3 @@
----
-title-block-style: none
----
-
 ## 1. Name
 
 The incorporated name of this body shall be "Evangel Presbytery, Inc."
