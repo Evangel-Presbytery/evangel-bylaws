@@ -8,7 +8,6 @@ date-format: "MMMM D, YYYY"
 
 book:
   title: "Evangel Presbytery Bylaws"
-  title-block-style: none
   repo-url: https://github.com/Evangel-Presbytery/evangel-bylaws
   chapters:
     - index.qmd
