@@ -5,6 +5,9 @@
 .quarto-title-meta-contents {
   display: none;
 }
+.quarto-title-block {
+  display: none;
+}
 /*--*/
 
 /* Search button styling */
