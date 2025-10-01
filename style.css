@@ -12,7 +12,7 @@
 
 /* No underline in sidebar site title */
 .quarto-sidebar-header h4 > a {
-  font-decoration: none;
+  text-decoration: none;
 }
 
 /* Search button styling */
