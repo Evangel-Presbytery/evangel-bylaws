@@ -34,6 +34,5 @@ format:
     number-sections: false
     css: "style.css"
     toc-location: left
-    toc-depth: 2
     footnotes-hover: false
     include-in-header: in_header.html
